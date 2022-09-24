@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^home?$ index.php
+RewriteRule ^StudentResult?$ find-result.php
+RewriteRule ^home?$ index.php
+RewriteRule ^home?$ index.php
+RewriteRule ^home?$ index.php
